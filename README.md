@@ -1,5 +1,5 @@
 # Demo
-[Demo Video](https://youtu.be/oeYqciuP_fE)
+[Demo Video](https://youtu.be/f2G55Kd_6bw?feature=shared)
 
 # Introduction
 A snake xenzia variant in which the player controls the main character whose score increases with every berry they eat which is generated randomly by the computer. Compete with your friends to show who can get the highest score in a set amount of time while showing off your DIY skills!
