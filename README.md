@@ -25,6 +25,6 @@ A snake xenzia variant in which the player controls the main character whose sco
 2. Download the latest micropython firmware for your pico / pico w.
 3. Copy it to the pico's working directory. 
 4. It will restart itself and boot up in micropython mode.
-5. Clone the repo
+5. Clone the repo into Pico
 6. Re-plug the pico back in the computer or provide direct power from your outlet using the micro usb cable.
 7. Enjoy!
